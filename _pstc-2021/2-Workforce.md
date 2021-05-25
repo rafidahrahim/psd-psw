@@ -12,5 +12,5 @@ With an emphasis on career agility, this webinar will focus on the progressive a
 <b>Speakers</b><br>
 Ms Ng Wee Wei, Managing Director, ASEAN Health & Public Service Lead, Accenture <br>
 Mr Lim Eng Hwee, Chief Executive Officer, URA  <br>
-Ms Aileen Tan, Chief Human Resources Officer, SingTel <br>
+Ms Aileen Tan, Chief Human Resources Officer, SingTel Group<br>
 Mr Jason See, Director Digital & Corporate Transformation, MINDEF <i> [Moderator] </i>
