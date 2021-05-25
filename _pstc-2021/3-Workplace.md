@@ -12,7 +12,7 @@ Addressing the impact of hybrid work environments on teamwork, this webinar will
 <b>Time:</b> 2.30pm – 4pm <br>
 <br>
 <b>Speakers</b><br>
-Mr Richard Koh, Chief Technology Officer, Microsoft & Board Member, HTX <br>
+Mr Richard Koh, Chief Technology Officer, Microsoft Singapore <br>
 Ms Susan Cheong, Managing Director & Group Head of Talent Acquisition, DBS <br>
 Mr Chan Tsan, Chief Executive, HTX & Deputy Secretary (Development), MHA <br>
 Mr Kiren Kumar, Deputy Chief Executive, IMDA <i> [Moderator]</i>
@@ -26,7 +26,7 @@ Addressing the impact of hybrid work environments on individuals, this webinar w
 <b>Time:</b> 2.30pm – 4pm<br> 
 <br>
 <b>Speakers</b><br>
-Dr Majeed Khader, Chief Psychologist, MHA <br>
 Dr Tan Weng Mooi, Director & Co-Head (Integrated Health Promotion), MOH <br>
 Adj A/Prof Daniel Fung Shuen Sheng, Chief Executive Officer, IMH <br>
+Dr Majeed Khader, Chief Psychologist, MHA <br>
 Adj A/Prof Clare Yeo, Head CARE, MOH & Senior Principal Clinical Psychologist, IMH <i>[Moderator] </i>
