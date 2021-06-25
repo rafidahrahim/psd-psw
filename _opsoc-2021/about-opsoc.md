@@ -91,7 +91,7 @@ permalink: /opsoc-2021/about
     </td>
   </tr>
 </table>
-<i><b>* More details below</b></i>
+<i><b>* More details below</b></i><br>
 <br>
 <h3>One Public Service Quiz</h3>
 How well do you know the Public Service? Put your knowledge to the test!<br>
