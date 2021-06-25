@@ -93,58 +93,53 @@ permalink: /opsoc-2021/about
 </table>
 <br>
 <h3>One Public Service Quiz</h3>
-<br>
 How well do you know the Public Service? Put your knowledge to the test!<br>
 <br>
 Participate in the One Public Service Quiz and stand a chance to win up to $200 worth of e-vouchers! <br>
 <table width="100%" border="1">
 <tr>
-<td width="50%">1st Place</td>
-<td width="50%">$200 credits</td>
+<td width="50%">1st Place<br></td>
+<td width="50%">$200 credits<br></td>
 </tr>
 <tr>
-<td>2nd Place</td>
-<td>$150 credits</td>
+<td>2nd Place<br></td>
+<td>$150 credits<br></td>
 </tr>
 <tr>
-<td>3rd Place</td>
-<td>$100 credits</td>
+<td>3rd Place<br></td>
+<td>$100 credits<br></td>
 </tr>
 <tr>
-<td>4th and 5th Place</td>
-<td>$50 credits</td>
+<td>4th and 5th Place<br></td>
+<td>$50 credits<br></td>
 </tr>
 <tr>
-<td>6th to 20th Place</td>
-<td>$20 credits</td>
+<td>6th to 20th Place<br></td>
+<td>$20 credits<br></td>
 </tr>
 </table>
 <br>
-Frequently Asked Questions <br>
+<u><b>Frequently Asked Questions</b></u><br>
 <br>
-How do I register for the quiz? <br>
-
-1.	Click here to register for OPSOC 2021.
-2.	Be the 1st 2000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.
+<b>How do I register for the quiz?</b><br>
+1.	Click here to register for OPSOC 2021.<br>
+2.	Be the 1st 2000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
 <br>
-What do I need to join the game? <br>
-<br>
+<b>What do I need to join the game?</b><br>
 A desktop, laptop, tablet or mobile device! <br>
 <br>
 Tip: It is recommended (but not mandatory) to use a separate device from the one you are using for OPSOC Zoom streaming. <br>
 <br>
-How do I join the Kahoot! quiz? <br>
-<br>
+<b>How do I join the Kahoot! quiz?</b><br>
 Go to https://kahoot.it and key in the Game PIN shown on the screen. Fill in your “Name (Agency)” in the Game ID. Example: Grace (SCDF) <br>
 <br>
 Note: Non-compliant IDs will be disqualified from prize redemption. <br>
 <br>
-How do I redeem the prize? <br>
-<br>
+<b>How do I redeem the prize?</b><br>
 The top 20 winners will know their placing at the end of the quiz. Winners will receive their e-prizes via the email* they keyed in to join the Kahoot! quiz. <br>
-*Do ensure the email address is keyed in accurately. <br>
+<i>*Do ensure the email address is keyed in accurately.</i><br>
 <br>
-OPSOC Planning Committee’s decision is final and no correspondence will be entertained. <br>
+OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
 For further assistance, you may submit a query to OPSOC@scdf.gov.sg<br>
 <br>
 
