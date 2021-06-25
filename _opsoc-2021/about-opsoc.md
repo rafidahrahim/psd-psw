@@ -24,7 +24,7 @@ permalink: /opsoc-2021/about
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-      • One Public Service Quiz<b>*</b><br>
+      • <a name="quiz">One Public Service Quiz</a><b>*</b><br>
         • One Public Service Video Message Challenge<br>
     </td>
   </tr>
@@ -93,7 +93,7 @@ permalink: /opsoc-2021/about
 </table>
 <i><b>* More details below</b></i><br>
 <br>
-<h3>One Public Service Quiz</h3>
+<h3><a href="#quiz">One Public Service Quiz</a></h3>
 How well do you know the Public Service? Put your knowledge to the test!<br>
 <br>
 Participate in the One Public Service Quiz and stand a chance to win up to $200 worth of e-vouchers! <br>
@@ -123,8 +123,8 @@ Participate in the One Public Service Quiz and stand a chance to win up to $200 
 <u><b>Frequently Asked Questions</b></u><br>
 <br>
 <b>How do I register for the quiz?</b><br>
-1.	Click here to register for OPSOC 2021.<br>
-2.	Be the 1st 2000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
+1.	Click <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a> to register for OPSOC 2021.<br>
+2.	Be the 1st 2,000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
 <br>
 <b>What do I need to join the game?</b><br>
 A desktop, laptop, tablet or mobile device! <br>
@@ -132,7 +132,7 @@ A desktop, laptop, tablet or mobile device! <br>
 Tip: It is recommended (but not mandatory) to use a separate device from the one you are using for OPSOC Zoom streaming. <br>
 <br>
 <b>How do I join the Kahoot! quiz?</b><br>
-Go to https://kahoot.it and key in the Game PIN shown on the screen. Fill in your “Name (Agency)” in the Game ID. Example: Grace (SCDF) <br>
+Go to <a href="https://kahoot.it">https://kahoot.it</a> and key in the Game PIN shown on the screen. Fill in your <b>“Name (Agency)”</b> in the Game ID. Example: Grace (SCDF) <br>
 <br>
 Note: Non-compliant IDs will be disqualified from prize redemption. <br>
 <br>
@@ -141,7 +141,7 @@ The top 20 winners will know their placing at the end of the quiz. Winners will 
 <i>*Do ensure the email address is keyed in accurately.</i><br>
 <br>
 OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
-For further assistance, you may submit a query to OPSOC@scdf.gov.sg<br>
+For further assistance, you may submit a query to <a href="mailto:OPSOC@scdf.gov.sg">OPSOC@scdf.gov.sg</a><br>
 <br>
 
 <h3 style="color:red;">OPSOC Teaser Video</h3>
