@@ -24,7 +24,7 @@ permalink: /opsoc-2021/about
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-        • One Public Service Quiz<br>
+        • One Public Service Quiz*<br>
         • One Public Service Video Message Challenge<br>
     </td>
   </tr>
@@ -91,6 +91,7 @@ permalink: /opsoc-2021/about
     </td>
   </tr>
 </table>
+<i>* More details below</i>
 <br>
 <h3>One Public Service Quiz</h3>
 How well do you know the Public Service? Put your knowledge to the test!<br>
