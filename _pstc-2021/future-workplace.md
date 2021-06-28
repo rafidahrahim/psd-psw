@@ -18,7 +18,8 @@ Addressing the impact of hybrid work environments on teamwork, this webinar will
 •	Mr. Kiren Kumar, Deputy Chief Executive (Development), IMDA <i> [Moderator]</i>
 <br>
 
-To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%201%20-%20Stronger%20Teams%20-%20Speakers%2001.pdf">here</a>. 
+<!-- To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%201%20-%20Stronger%20Teams%20-%20Speakers%2001.pdf">here</a>. -->
+
 <br>
 <br>
 <br>
@@ -34,4 +35,4 @@ Addressing the impact of hybrid work environments on individuals, this webinar w
 • Adj A/Prof Majeed Khader, Chief Psychologist, Ministry of Home Affairs & Director, Home Team Behavioural Sciences Centre <br>
 •	Adj A/Prof Clare Yeo, Head CARE, MOH & Senior Principal Clinical Psychologist, IMH <i>[Moderator] </i>
 
-To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%202%20-%20Stronger%20Individuals%20-%20Speakers%2001.pdf">here</a>. 
+<!-- To view the speakers' profiles, click <a href="/https://github.com/isomerpages/psd-psw/blob/staging/_pstc-2021/Speakers%20Info/FWP%202%20-%20Stronger%20Individuals%20-%20Speakers%2001.pdf">here</a>. -->
