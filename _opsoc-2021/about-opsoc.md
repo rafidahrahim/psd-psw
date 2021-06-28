@@ -8,20 +8,6 @@ permalink: /opsoc-2021/about
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <i>The event is open to all public officers</i><br>
 <br>
-<h3 style="color:red;">OPSOC Teaser Video</h3>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br>
-<b>NOTE:</b><i>Recommended to view the video on Youtube/Google Chrome.</i><br>
-<br>
-<h3>About</h3>
-The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
-<br>
-This year, we are continuing with the successful virtual format that saw over 10,000 of us gather digitally in 2020. Join us in this mega ceremony for all public officers as we come together to reflect over the past one year and look ahead to the coming year.<br>
-<br>
-You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun Sing, on how we are facing new challenges and seizing new opportunities as we rebuild our economy, society and people in the post-COVID-19 world.<br>
-<br>
 <h3>Programme</h3>
 <table width="100%" border="1">
   <tr>
@@ -38,7 +24,7 @@ You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun 
     </td>
     <td>
       Pre-event interactive and engaging activities:<br>
-        • One Public Service Quiz<br>
+      • <a name="quiz">One Public Service Quiz</a><b>*</b><br>
         • One Public Service Video Message Challenge<br>
     </td>
   </tr>
@@ -105,3 +91,64 @@ You will also hear from Minister-in-Charge of the Public Service, Mr. Chan Chun 
     </td>
   </tr>
 </table>
+<i><b>* More details below</b></i><br>
+<br>
+<h3><a href="#quiz">One Public Service Quiz</a></h3>
+How well do you know the Public Service? Put your knowledge to the test!<br>
+<br>
+Participate in the One Public Service Quiz and stand a chance to win up to $200 worth of e-vouchers! <br>
+<table width="100%" border="1">
+<tr>
+<td width="50%">1st Place<br></td>
+<td width="50%">$200 credits<br></td>
+</tr>
+<tr>
+<td>2nd Place<br></td>
+<td>$150 credits<br></td>
+</tr>
+<tr>
+<td>3rd Place<br></td>
+<td>$100 credits<br></td>
+</tr>
+<tr>
+<td>4th and 5th Place<br></td>
+<td>$50 credits<br></td>
+</tr>
+<tr>
+<td>6th to 20th Place<br></td>
+<td>$20 credits<br></td>
+</tr>
+</table>
+<br>
+<u><b>Frequently Asked Questions</b></u><br>
+<br>
+<b>How do I register for the quiz?</b><br>
+1.	Click <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a> to register for OPSOC 2021.<br>
+2.	Be the 1st 2,000 participants to join the Kahoot! quiz during the OPSOC pre-event segment at 2.15pm.<br>
+<br>
+<b>What do I need to join the game?</b><br>
+A desktop, laptop, tablet or mobile device! <br>
+<br>
+Tip: It is recommended (but not mandatory) to use a separate device from the one you are using for OPSOC Zoom streaming. <br>
+<br>
+<b>How do I join the Kahoot! quiz?</b><br>
+Go to <a href="https://kahoot.it">https://kahoot.it</a> and key in the Game PIN shown on the screen. Fill in your <b>“Name (Agency)”</b> in the Game ID. Example: Grace (SCDF) <br>
+<br>
+Note: Non-compliant IDs will be disqualified from prize redemption. <br>
+<br>
+<b>How do I redeem the prize?</b><br>
+The top 20 winners will know their placing at the end of the quiz. Winners will receive their e-prizes via the email* they keyed in to join the Kahoot! quiz. <br>
+<i>*Do ensure the email address is keyed in accurately.</i><br>
+<br>
+OPSOC Planning Committee’s decision is final and no correspondence will be entertained.<br>
+For further assistance, you may submit a query to <a href="mailto:OPSOC@scdf.gov.sg">OPSOC@scdf.gov.sg</a><br>
+<br>
+
+<h3 style="color:red;">OPSOC Teaser Video</h3>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>NOTE:</b><i>Recommended to view the video on Youtube/Google Chrome.</i><br>
+<br>
+
